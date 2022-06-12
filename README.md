@@ -1,2 +1,2 @@
 # Projeto-GITHUB-Bootcamp
-Desafio de projeto sobre Git/GitHUB
+Repositorio Desafio de projeto sobre Git/GitHUB
